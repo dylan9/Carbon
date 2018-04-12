@@ -36,7 +36,7 @@ public class Ouya implements WrapperFactory {
 
 		@Override
 		public String getName() {
-			return "XBox360";
+			return "Ouya";
 		}
 		@Override
 		public boolean buttonDown(Controller controller, int buttonCode) {
